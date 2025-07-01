@@ -49,6 +49,16 @@ section h2 {
   border-radius: 12px;
 }
 
+.skill-list {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.skill-list div {
+  flex: 1;
+  min-width: 250px;
+}
 
 ul {
   list-style-type: circle;
