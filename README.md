@@ -1,22 +1,22 @@
 # Create_and_Design_Personal_Website
 * *A simple personal website built using HTML, CSS, and JavaScript.* 
 
- Languages Used
+ **Languages Used**
 - HTML
 - CSS 
 - JavaScript
 
- Project Files
+ **Project Files**
 - index.html : Web page structure  
 - style.css : Styling and layout  
 - script.js : Basic JavaScript interaction
 
- Features
+ **Features**
 - Clean and calm design  
 - Email contact shown in footer  
 - Interactive "Click! " button using JavaScript
 
-Contact
+**Contact**
 
 Email: amani.owayed@gmail.com
 
