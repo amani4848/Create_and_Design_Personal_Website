@@ -20,4 +20,4 @@ Contact
 
 Email: amani.owayed@gmail.com
 
-![Website Screenshot](https://github.com/amani4848/Create_and_Design_Personal_Website/blob/e515f8692b01c93f01b8eca24a98e77b2ef0f92c/website.png)
+![Website Screenshot](https://github.com/amani4848/Create_and_Design_Personal_Website/blob/5e7d25c0e9b727dc396307cbcb11bbb09f9ec2cd/Screenshot_website.png)
